@@ -288,8 +288,8 @@ header .navbar ul li a:hover:before{
   }
   
   @-webkit-keyframes slide {
-    20% {margin-left: 0px;}
-    30% {margin-left: -900px;}
+    30% {margin-left: 0px;}
+    40% {margin-left: -900px;}
     50% {margin-left: -900px;}
     60% {margin-left: -1800px;}
     70% {margin-left: -1800px;}
